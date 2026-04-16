@@ -1,7 +1,5 @@
 node_modules/
 .env
-/src/generated/prisma
 /prisma/migrations
 .DS_STORE
 /coverage
-/src/generated/prisma
