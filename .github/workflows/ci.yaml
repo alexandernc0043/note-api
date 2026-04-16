@@ -33,7 +33,7 @@ jobs:
       - name: Install Dependencies
         run: npm ci # Clean Install
       - name: Run Prisma Migrations
-        run: npx prisma migrate deploys
+        run: npx prisma migrate deploy
       - name: Generate Prisma Client
         run: npx prisma generate
       - name: Run Test Cases
