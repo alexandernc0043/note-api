@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1776383773649" clover="3.2.0">
-  <project timestamp="1776383773649" name="All files">
-    <metrics statements="99" coveredstatements="93" conditionals="3480" coveredconditionals="536" methods="1365" coveredmethods="400" elements="4944" coveredelements="1029" complexity="0" loc="99" ncloc="99" packages="9" files="12" classes="12"/>
+<coverage generated="1776383993574" clover="3.2.0">
+  <project timestamp="1776383993574" name="All files">
+    <metrics statements="100" coveredstatements="94" conditionals="3480" coveredconditionals="536" methods="1365" coveredmethods="400" elements="4945" coveredelements="1030" complexity="0" loc="100" ncloc="100" packages="9" files="12" classes="12"/>
     <package name="src">
       <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
       <file name="app.js" path="/Users/alexanderp/University/senior/spring/ITIS4166/note-api-starter/src/app.js">
@@ -128,11 +128,12 @@
       </file>
     </package>
     <package name="src.middleware">
-      <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
       <file name="errorHandler.js" path="/Users/alexanderp/University/senior/spring/ITIS4166/note-api-starter/src/middleware/errorHandler.js">
-        <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
         <line num="2" count="2" type="cond" truecount="2" falsecount="0"/>
         <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
       </file>
     </package>
     <package name="src.repositories">
